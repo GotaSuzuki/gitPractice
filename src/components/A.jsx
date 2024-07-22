@@ -1,8 +1,7 @@
 const A = () => {
   return (
     <>
-      <div>A</div>
-      <div>CCC</div>
+      <div>D</div>
     </>
   )
 }
