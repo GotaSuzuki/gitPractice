@@ -1,8 +1,9 @@
 const A = () => {
-  return (<>
-    <div>B</div>
-    <div>AAA</div>
-  </>
+  return (
+    <>
+      <div>A</div>
+      <div>CCC</div>
+    </>
   )
 }
 export default A
